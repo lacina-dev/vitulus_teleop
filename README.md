@@ -1,7 +1,7 @@
 # Vitulus teleop
  Keyboard teleop for VITULUS.
 
-Node [/vitulus_teleop_keyboard]
+### Node [/vitulus_teleop_keyboard]
 
 Publications: 
  * /cmd_vel [geometry_msgs/Twist]
