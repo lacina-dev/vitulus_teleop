@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>vitulus_teleop</name>
+  <version>0.0.1</version>
+  <description>
+    Vitulus keyboard teleoperations. Used from TurtleBot3 with small adjustments.
+  </description>
+  
+  <maintainer email="robert@lacina.dev">Robert Lacina</maintainer>
+  <license>BSD</license>
+  <author>Melonee Wise</author>
+  <author email="thlim@robotis.com">Darby Lim</author>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rospy</depend>
+  <depend>geometry_msgs</depend>
+</package>

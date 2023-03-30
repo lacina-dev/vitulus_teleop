@@ -1,0 +1,6 @@
+<launch>
+
+
+  <node pkg="vitulus_teleop" type="vitulus_teleop_key" name="vitulus_teleop_keyboard"  output="screen">
+  </node>
+</launch>
